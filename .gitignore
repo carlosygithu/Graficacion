@@ -1,0 +1,4 @@
+entornoV/
+__pycache__/
+*.pyc
+.vscode/
